@@ -4,8 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsJava/collectionsJava.iml" filepath="$PROJECT_DIR$/collectionsJava/collectionsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convertListsToArrays/convertListsToArrays.iml" filepath="$PROJECT_DIR$/convertListsToArrays/convertListsToArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashSet/hashSet.iml" filepath="$PROJECT_DIR$/hashSet/hashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/javapracticeIfElse/javapracticeIfElse.iml" filepath="$PROJECT_DIR$/javapracticeIfElse/javapracticeIfElse.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queueJava/queueJava.iml" filepath="$PROJECT_DIR$/queueJava/queueJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackJava/stackJava.iml" filepath="$PROJECT_DIR$/stackJava/stackJava.iml" />
     </modules>
   </component>
 </project>

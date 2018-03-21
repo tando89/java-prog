@@ -1,1 +1,1 @@
-include ':app', ':javapracticeIfElse', ':lib'
+include ':app', ':javapracticeIfElse', ':lib', ':collectionsJava', ':linkedlist', ':convertListsToArrays', ':stackJava', ':queueJava', ':hashSet'

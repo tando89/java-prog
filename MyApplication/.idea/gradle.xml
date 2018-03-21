@@ -9,8 +9,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/collectionsJava" />
+            <option value="$PROJECT_DIR$/convertListsToArrays" />
+            <option value="$PROJECT_DIR$/hashSet" />
             <option value="$PROJECT_DIR$/javapracticeIfElse" />
             <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/linkedlist" />
+            <option value="$PROJECT_DIR$/queueJava" />
+            <option value="$PROJECT_DIR$/stackJava" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
